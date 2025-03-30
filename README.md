@@ -87,5 +87,3 @@ This project is structured to demonstrate solid software engineering practices: 
   Implement features to analyze the collected quotes (e.g., frequency analysis of authors or topics).
 
 ---
-
-This README.md file provides a detailed overview of CS50 QuoteVault, including its features, structure, installation instructions, usage examples, and design considerations. It meets the CS50P final project requirements by thoroughly documenting your project and all its functionalities.
