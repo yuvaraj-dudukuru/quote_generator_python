@@ -1,4 +1,4 @@
-# CS50 Web Scraper Project with Enhanced GUI
+# CS50 CS50 QuoteVault: A Web Scraper and GUI for Inspirational Quotes.
 
 #### Video Demo: <YOUR_VIDEO_URL_HERE>
 
