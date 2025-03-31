@@ -70,10 +70,10 @@ This project is structured to demonstrate solid software engineering practices: 
   All functionality is broken down into specific helper functions (e.g., for fetching HTML, parsing quotes, saving data, etc.) which makes the code easier to maintain, test, and extend.
 
 #### Author Information:
-- **Name:** Jane Doe  
-- **GitHub Username:** janedoe  
-- **edX Username:** janedoe_edX  
-- **City and Country:** New York, USA  
+- **Name:** Dudukuru Yuvaraj  
+- **GitHub Username:** yuvaraj-dudukuru 
+- **edX Username:** yuvaraj2005  
+- **City and Country:** Hyderabad, INDIA  
 - **Date Recorded:** 2025-03-30
 
 #### Future Enhancements:
