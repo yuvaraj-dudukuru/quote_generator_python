@@ -1,6 +1,6 @@
 # CS50 QuoteVault
 
-#### Video Demo: 
+#### Video Demo: https://youtu.be/c5CGPgVuw9c
 
 #### Description:
 CS50 QuoteVault is a Python-based web scraper and graphical application designed to collect inspirational quotes from [quotes.toscrape.com](http://quotes.toscrape.com/). The project features both a command-line interface (CLI) and an enhanced graphical user interface (GUI) built using tkinter. Users can specify how many pages to scrape, choose the output JSON file, and even retrieve a random quote from the saved data.
